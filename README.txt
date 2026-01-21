@@ -22,6 +22,14 @@ Copy .md files to your Claude Code commands directory:
 - Windows: %USERPROFILE%\.claude\commands\
 - macOS/Linux: ~/.claude/commands/
 
+Or clone directly:
+  git clone https://github.com/crane-valley/claude-commands.git ~/.claude/commands
+
+## Why README.txt instead of README.md?
+
+Claude Code recognizes all .md files in the commands directory as slash commands.
+Using .txt avoids /README appearing in the command list.
+
 ## License
 
 MIT License - See LICENSE file
