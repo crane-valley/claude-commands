@@ -1,3 +1,8 @@
+---
+argument-hint: <pr-number>
+description: Review pull request
+---
+
 Review pull request: $ARGUMENTS
 
 1. Run `gh pr diff $ARGUMENTS` to get changes

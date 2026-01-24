@@ -1,3 +1,7 @@
+---
+description: Review staged and unstaged changes
+---
+
 Review staged and unstaged changes:
 
 1. Run `git diff` and `git diff --cached`

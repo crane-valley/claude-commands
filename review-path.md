@@ -1,3 +1,8 @@
+---
+argument-hint: <file-or-directory-path>
+description: Review code at specified path
+---
+
 Review code at specified path: $ARGUMENTS
 
 1. Read the file(s) at the path
