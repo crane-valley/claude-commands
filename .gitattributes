@@ -1,0 +1,11 @@
+# Set default behavior to automatically normalize line endings
+* text=auto eol=lf
+
+# Markdown files
+*.md text eol=lf
+
+# Text files
+*.txt text eol=lf
+
+# License
+LICENSE text eol=lf
